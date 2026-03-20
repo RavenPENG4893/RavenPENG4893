@@ -189,11 +189,8 @@ location: Building the future, one commit at a time
 
 <div align="center">
 
-<a href="https://github.com/RavenPENG4893/YOUR-PROJECT-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavenPENG4893&repo=YOUR-PROJECT-1&theme=tokyonight&hide_border=true" alt="Project 1"/>
-</a>
-<a href="https://github.com/RavenPENG4893/YOUR-PROJECT-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavenPENG4893&repo=YOUR-PROJECT-2&theme=tokyonight&hide_border=true" alt="Project 2"/>
+<a href="https://github.com/RavenPENG4893/IPMA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavenPENG4893&repo=IPMA&theme=tokyonight&hide_border=true" alt="IPMA"/>
 </a>
 
 </div>
@@ -202,21 +199,12 @@ location: Building the future, one commit at a time
 
 <!-- ════════════════════ CONNECT ════════════════════ -->
 
-<h2 align="center">🌐 Connect</h2>
+<h2 align="center">📬 Contact</h2>
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://YOUR-WEBSITE.com">
-  <img src="https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://twitter.com/YOUR-TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-0891b2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+<a href="mailto:ravenpeng@outlook.com">
+  <img src="https://img.shields.io/badge/ravenpeng@outlook.com-1d4ed8?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
 </a>
 
 </div>
